@@ -1,5 +1,4 @@
----
-title: "README.md"
+
 Peer Review Assignment: Getting and Cleaning Data (Coursera)
 
 Dataset:
